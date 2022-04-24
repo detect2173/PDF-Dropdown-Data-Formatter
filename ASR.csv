@@ -1,0 +1,84 @@
+﻿ArrivalDt,EnrolledId,EnrDt,StudentLName,StudentFName,StudentMName,StudentId,DoB,Resident,Sex,StaffLName,StaffFName,StaffMName,DormGroup,CenterName,Race,EnrollmentType,PaidDays,Los,Age
+3/1/2022,0,4/8/2019,CERVANTES,ELI,,1778739,7/18/1998,Y,M,Shahan,Catherine,,Dorm 23 2312,,Hispanic or Latino,AT Transfer,1069,1113,23
+4/6/2021,0,7/23/2019,CARMODY,OLIVER,F,1796106,9/8/1996,Y,M,Shahan,Catherine,,Dorm 23 2303,,White,AT Transfer,974,1007,25
+10/5/2021,0,9/9/2019,JOHNSON,JERMAINE,X,1798438,10/7/2002,Y,M,Shahan,Catherine,,Dorm 23 2301,,Black or African American,AT Transfer,919,959,19
+1/7/2020,0,1/7/2020,SINAGRA,DEVLIN,R,1798549,3/29/2000,Y,M,Baker,Jesse,,Dorm 21 2110,,White & Hispanic/Latino,New Student,820,839,22
+8/24/2021,0,11/25/2019,LITTLEHAT,COLEN,,1799445,7/14/1995,Y,M,Shahan,Catherine,,Dorm 23 2302,,American Indian or Alaska Native,AT Transfer,779,812,26
+10/15/2019,0,10/15/2019,GEORGOULAKOS,JACOB,C,1808074,11/7/1999,Y,M,Shahan,Catherine,,Dorm 21 2120,,White,New Student,886,923,22
+9/21/2021,0,10/28/2019,RUSE,CODY,G,1813940,3/14/1995,Y,M,Shahan,Catherine,,Dorm 23 2306,,White,AT Transfer,877,910,27
+1/21/2020,0,1/21/2020,SKYE,JAVEN,W,1823545,4/20/2001,Y,M,Shahan,Catherine,,Dorm 21 2106,,American Indian or Alaska Native,New Student,811,825,21
+2/4/2020,0,2/4/2020,BARBOUR,EMILY,E,1829101,8/15/2000,Y,F,Shahan,Catherine,,Dorm 17 1710,,White,New Student,797,811,21
+5/4/2021,0,2/4/2020,ESCALONA CARVAJAL,GENESIS,,1832790,8/10/2000,Y,F,Shahan,Catherine,,Dorm 23 2304,,Hispanic or Latino,AT Transfer,794,811,21
+2/25/2020,0,2/25/2020,TUCKER-MCCARTNEY,SAPHIRE,A,1835921,4/22/2001,Y,F,Shahan,Catherine,,Dorm 17 1706,,White,New Student,776,790,21
+6/8/2021,0,6/8/2021,BEARDSLEY,RYAN,M,1841176,10/11/1997,Y,M,Shahan,Catherine,,Dorm 23 2309,,White & Hispanic/Latino,New Student,307,321,24
+12/7/2021,0,12/7/2021,SANTIAGO,RANDY,L,1841822,8/2/2000,Y,M,Baker,Jesse,,Dorm 23 2316,,Hispanic or Latino,New Student,125,139,21
+7/6/2021,0,7/6/2021,TORREY,BRANDY,L,1843236,10/18/1998,Y,F,Baker,Jesse,,Dorm 17 1704,,White,New Student,279,293,23
+3/15/2022,0,3/15/2022,MOLEON,JOHN,M,1724752,1/13/2000,Y,M,Berthiaume,Kimberly,,Dorm 21 2112,,Black or African American,Re-enrollment,41,141,22
+7/6/2021,0,7/6/2021,DEJESUS,JONATHAN,A,1846987,5/24/1997,Y,M,Baker,Jesse,,Dorm 21 2113,,Black or African American,New Student,279,293,24
+11/9/2021,0,11/9/2021,HICKS,SABRINA,L,1847302,11/26/1998,Y,F,Baker,Jesse,,Dorm 17 1712,,White,New Student,153,167,23
+7/19/2021,0,7/19/2021,MARSH,BRANDON,A,1847981,9/1/2001,Y,M,Baker,Jesse,,Dorm 21 2118,,White,New Student,266,280,20
+8/3/2021,0,8/3/2021,JOSEPH,DYLAN,M,1848674,8/30/2001,Y,M,Shahan,Catherine,,Dorm 23 2315,,White,New Student,251,265,20
+3/29/2022,0,3/29/2022,TROY,EVAN,I,1850278,1/24/2002,Y,M,Berthiaume,Kimberly,,Dorm 21 2121,,White,New Student,27,27,20
+10/4/2021,0,10/4/2021,UDES,HUNTER,R,1853227,2/24/2004,Y,M,Baker,Jesse,,Dorm 22 2207,,White,New Student,188,203,18
+7/19/2021,0,7/19/2021,SILBERBERG,LOUIS,C,1857610,1/20/1999,Y,M,Shahan,Catherine,,Dorm 23 2321,,White,New Student,266,280,23
+3/15/2022,0,3/15/2022,VEGA LOPEZ,CRISTIAN,A,1858629,12/27/2001,Y,M,Berthiaume,Kimberly,,Dorm 22 2206,,Hispanic or Latino,New Student,41,41,20
+7/20/2021,0,7/20/2021,WAGNAC,TEDSON,,1861164,9/28/1997,Y,M,Baker,Jesse,,Dorm 22 2203,,Black or African American,New Student,265,279,24
+8/3/2021,0,8/3/2021,PAGE,CAMERON,R,1861720,10/1/2002,Y,M,Baker,Jesse,,Dorm 23 2317,,White,New Student,251,265,19
+1/11/2022,0,1/11/2022,RODRIGUEZ,DAYNA,,1863019,11/19/2004,Y,F,Baker,Jesse,,Dorm 17 1701,,Hispanic or Latino,New Student,104,104,17
+12/7/2021,0,12/7/2021,WILLIAMSON,ABDUL HAFIZ,K,1864387,11/14/2003,Y,M,Shahan,Catherine,,Dorm 23 2322,,Black or African American,New Student,125,139,18
+7/19/2021,0,7/19/2021,MATTE,BENJAMIN,H,1864555,4/20/2000,Y,M,Baker,Jesse,,Dorm 23 2319,,White,New Student,266,280,22
+6/8/2021,0,6/8/2021,PAGAN,NATHANIEL,E,1866252,12/7/2002,Y,M,Baker,Jesse,,Dorm 21 2105,,Hispanic or Latino,New Student,305,321,19
+8/17/2021,0,8/17/2021,ACOSTA,SAYYID,A,1867817,8/14/2002,Y,M,Baker,Jesse,,Dorm 21 2114,,Hispanic or Latino,New Student,230,251,19
+1/11/2022,0,1/11/2022,GRANT,KIYA,R,1870692,11/28/2002,Y,F,Shahan,Catherine,,Dorm 17 1707,,White,New Student,104,104,19
+6/8/2021,0,6/8/2021,PALACIOS ACOSTA,KEVIN,,1870697,10/23/1999,Y,M,Shahan,Catherine,,Dorm 23 2307,,Hispanic or Latino,New Student,307,321,22
+6/8/2021,0,6/8/2021,HAMMOND,TYLER,J,1811180,4/5/1996,Y,M,Baker,Jesse,,Dorm 22 2205,,White,Re-enrollment,302,364,26
+7/6/2021,0,7/6/2021,CUTTER,AIDAN,J,1871770,7/28/2003,Y,M,Shahan,Catherine,,Dorm 21 2122,,White,New Student,279,293,18
+7/20/2021,0,7/20/2021,MEYER,JOEL,S,1872341,6/6/2003,Y,M,Baker,Jesse,,Dorm 21 2104,,White,New Student,265,279,18
+8/3/2021,0,8/3/2021,MUNDO,KAYLEEN,,1811996,7/25/1998,Y,F,Shahan,Catherine,,Dorm 17 1704,,Hispanic or Latino,Re-enrollment,251,309,23
+7/6/2021,0,7/6/2021,ROTONDI,MICHAEL,A,1875333,1/23/2003,Y,M,Baker,Jesse,,Dorm 21 2116,,Black or African American,New Student,279,293,19
+7/6/2021,0,7/6/2021,PARKER,JUSTIN,K,1876052,8/8/1997,Y,M,Shahan,Catherine,,Dorm 23 2311,,Black or African American,New Student,279,293,24
+9/14/2021,0,9/14/2021,NGUYEN,HENRY,,1876065,2/8/2003,Y,M,Baker,Jesse,,Dorm 22 2202,,Asian,New Student,209,223,19
+1/11/2022,0,1/11/2022,FIELDS,SHYLEE,R,1876179,2/18/2002,Y,F,Baker,Jesse,,Dorm 17 1708,,White,New Student,104,104,20
+8/3/2021,0,8/3/2021,AULIS,ZACKERY,A,1876370,9/27/2002,Y,M,Shahan,Catherine,,Dorm 23 2323,,White,New Student,245,265,19
+3/1/2022,0,3/1/2022,WILBURN,JONAH,J,1876489,3/24/2001,Y,M,Berthiaume,Kimberly,,Dorm 22 2210,,Black or African American,New Student,55,55,21
+9/14/2021,0,9/14/2021,ANDERSON,OWEN,P,1876660,11/18/2004,Y,M,Baker,Jesse,,Dorm 21 2101,,White,New Student,209,223,17
+9/28/2021,0,9/28/2021,MASSE,KALEB,J,1877218,4/2/2003,Y,M,Shahan,Catherine,,Dorm 22 2203,,White,New Student,193,209,19
+9/14/2021,0,9/14/2021,CLEVELAND,SANAA,H,1878562,1/11/2003,Y,F,Shahan,Catherine,,Dorm 17 1701,,Black or African American,New Student,208,223,19
+2/15/2022,0,2/15/2022,ROBBINS-DUPUIS,JASON,A,1878800,5/9/2004,Y,M,Shahan,Catherine,,Dorm 22 2209,,White,New Student,69,69,17
+12/7/2021,0,12/7/2021,THOMAS,MALCOLM,E,1878956,3/25/2001,Y,M,Baker,Jesse,,Dorm 23 2314,,Black or African American,New Student,122,139,21
+8/31/2021,0,8/31/2021,TOBIN,ZACHYRIA,A,1879207,9/10/2002,Y,M,Shahan,Catherine,,Dorm 21 2117,,White,New Student,223,237,19
+9/28/2021,0,9/28/2021,RASHFORD,JORDAN,M,1879208,3/6/2003,Y,F,Baker,Jesse,,Dorm 17 1703,,White,New Student,195,209,19
+8/17/2021,0,8/17/2021,MONTERO,SCOTTEI,,1879302,10/4/1998,Y,M,Shahan,Catherine,,Dorm 22 2208,,Hispanic or Latino,New Student,235,251,23
+1/11/2022,0,1/11/2022,MARTIN,TIA,R,1880486,2/7/2003,Y,F,Shahan,Catherine,,Dorm 17 1708,,White,New Student,104,104,19
+9/28/2021,0,9/28/2021,CLINE,BRI-ANNE,A,1880944,10/29/2002,Y,F,Baker,Jesse,,Dorm 17 1710,,White,New Student,193,209,19
+11/9/2021,0,11/9/2021,RHEM,ARAMIS,D,1881632,8/17/2003,Y,M,Baker,Jesse,,Dorm 21 2109,,Black or African American,New Student,153,167,18
+9/28/2021,0,9/28/2021,WILLIS,CODY,J,1883190,3/7/2002,Y,M,Baker,Jesse,,Dorm 23 2313,,White,New Student,195,209,20
+10/26/2021,0,10/26/2021,TERONI III,GEORGE,J,1884619,4/2/2004,Y,M,Shahan,Catherine,,Dorm 21 2103,,White,New Student,167,181,18
+10/26/2021,0,10/26/2021,PARKS,ANITA,L,1815465,1/5/2001,Y,F,Baker,Jesse,,Dorm 17 1701,,White,Re-enrollment,167,455,21
+10/26/2021,0,10/26/2021,PAGE,CONNOR,A,1884928,4/25/2003,Y,M,Baker,Jesse,,Dorm 23 2310,,White,New Student,167,181,18
+10/26/2021,0,10/26/2021,GRIFFIN,SPENCER,N,1885445,7/28/2003,Y,M,Baker,Jesse,,Dorm 21 2115,,White,New Student,167,181,18
+10/26/2021,0,10/26/2021,LAWRENCE,LEON,A,1885897,4/15/2001,Y,F,Shahan,Catherine,,Dorm 17 1705,,White,New Student,167,181,21
+12/7/2021,0,12/7/2021,SMITH,EDWARD,W,1885903,11/10/1998,Y,M,Baker,Jesse,,Dorm 23 2308,,White,New Student,125,139,23
+2/1/2022,0,2/1/2022,HOUDE,REBECCA,A,1886180,2/22/2001,Y,F,Baker,Jesse,,Dorm 17 1706,,White,New Student,83,83,21
+1/11/2022,0,1/11/2022,OUELLET,DAIMEN,M,1887114,9/23/2003,Y,M,Baker,Jesse,,Dorm 22 2204,,White,New Student,104,104,18
+2/1/2022,0,2/1/2022,FINKELSTEIN,JACOB,R,1888524,2/11/2002,Y,M,Baker,Jesse,,Dorm 21 2119,,White,New Student,83,83,20
+2/1/2022,0,2/1/2022,CROSTHWAIT,REBECCA,R,1889509,12/1/2001,Y,F,Baker,Jesse,,Dorm 17 1707,,White,New Student,83,83,20
+1/11/2022,0,1/11/2022,DEFELICE,XAVIER,M,1889613,1/16/2005,Y,M,Baker,Jesse,,Dorm 23 2320,,White,New Student,104,104,17
+2/15/2022,0,2/15/2022,RODRIGUEZ,CHRISTOPHER,A,1890757,3/19/2003,Y,M,Baker,Jesse,,Dorm 21 2107,,Hispanic or Latino,New Student,68,69,19
+3/1/2022,0,3/1/2022,RAPOZA,KRISTA,M,1890841,6/6/2003,Y,F,Berthiaume,Kimberly,,Dorm 17 1712,,White,New Student,55,55,18
+2/1/2022,0,2/1/2022,VANNOSTRAND,CONNER,E,1890898,7/14/2005,Y,M,Baker,Jesse,,Dorm 21 2122,,White,New Student,83,83,16
+2/15/2022,0,2/15/2022,RAYMOND,ALEXANDREA,R,1893033,12/8/2002,Y,F,Baker,Jesse,,Dorm 17 1711,,White,New Student,69,69,19
+1/11/2022,0,1/11/2022,TAYLOR,DEMARCUS,T,1893353,9/18/2003,Y,M,Baker,Jesse,,Dorm 21 2102,,Black or African American,New Student,104,104,18
+3/1/2022,0,3/1/2022,STACKHOUSE,JALMANI,J,1893763,2/11/2005,Y,M,Berthiaume,Kimberly,,Dorm 22 2201,,Black or African American,New Student,55,55,17
+3/15/2022,0,3/15/2022,SHARIFNOOR,BIBISHAN,A,1893911,12/24/1999,Y,F,Berthiaume,Kimberly,,Dorm 17 1709,,Black or African American,New Student,41,41,22
+2/15/2022,0,2/15/2022,MECKLE,JULIAN,W,1894127,6/28/2005,Y,M,Baker,Jesse,,Dorm 22 2203,,White,New Student,69,69,16
+2/15/2022,0,2/15/2022,JONES,CHRISTOPHER,E,1728281,2/18/2002,Y,M,Shahan,Catherine,,Dorm 21 2108,,White,Re-enrollment,69,473,20
+3/15/2022,0,3/15/2022,CARMONA MARTINEZ,ELBERT,M,1894277,9/9/2000,Y,M,Berthiaume,Kimberly,,Dorm 22 2206,,Hispanic or Latino,New Student,41,41,21
+3/1/2022,0,3/1/2022,DRAGON,ANASTASIA,M,1894659,7/1/2001,Y,F,Berthiaume,Kimberly,,Dorm 17 1703,,White,New Student,55,55,20
+3/15/2022,0,3/15/2022,WALTON,NYSHAWN,A,1895044,12/8/2004,Y,M,Berthiaume,Kimberly,,Dorm 22 2206,,Black or African American,New Student,41,41,17
+3/15/2022,0,3/15/2022,GOODWIN,JACOB,C,1895487,5/19/2002,Y,M,Berthiaume,Kimberly,,Dorm 22 2209,,White,New Student,41,41,19
+3/15/2022,0,3/15/2022,GILLESPIE,CAMERON,J,1895887,2/15/2000,Y,M,Berthiaume,Kimberly,,Dorm 22 2209,,White,New Student,41,41,22
+3/29/2022,0,3/29/2022,DELAROSA II,ANTHONY,E,1896707,6/8/1999,Y,M,Berthiaume,Kimberly,,Dorm 21 2111,,Black or African American,New Student,27,27,22
+3/1/2022,0,3/1/2022,LAWRENCE III,ROBERT,D,1896769,1/18/2006,Y,M,Berthiaume,Kimberly,,Dorm 22 2210,,Black/African American & Hispanic or Latino,New Student,49,55,16
+3/1/2022,0,3/1/2022,LAWRENCE,LUIS,J,1896919,1/18/2006,Y,M,Berthiaume,Kimberly,,Dorm 22 2210,,Black/African American & Hispanic or Latino,New Student,55,55,16
+3/15/2022,0,3/15/2022,WILLIAMS,COLLEEN,A,1897628,2/3/2004,Y,F,Berthiaume,Kimberly,,Dorm 17 1709,,Black or African American,New Student,41,41,18
